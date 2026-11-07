@@ -12,7 +12,7 @@ Attitude and altitude estimation on an STM32H753ZI (Arm Cortex-M7), built from b
 | 3 | Sensor drivers with calibration + host unit tests | Not started |
 | 4 | FreeRTOS tasks; timing jitter measured | Not started |
 | 5 | Attitude (complementary/Madgwick) + barometric altitude, live plot | Not started |
-| 6 | FDCAN telemetry + CI | Not started |
+| 6 | FDCAN telemetry + CI (build, unit tests, cppcheck/MISRA, clang-format) | Not started |
 
 ## Build
 See docs/BUILD.md.
